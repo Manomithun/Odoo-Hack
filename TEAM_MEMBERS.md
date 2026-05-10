@@ -21,6 +21,7 @@
   - Worked on the backend API using Express and Prisma.
   - Implemented database access, validation, and middleware.
   - Helped create and maintain backend routes and business logic.
+  -Helped in testing the backen logic using postman
 
 ## Shared Responsibilities
 - **All four team members**
